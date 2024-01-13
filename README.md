@@ -6,4 +6,4 @@
 - 📫 Contato: gustavo.medeiros@ufv.br
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Eufrausino&show_icons=true&theme=highcontrast"/>
-<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrausino&layout=donut"/>
+<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrausino&layout=donut&theme=highcontrast"/>
