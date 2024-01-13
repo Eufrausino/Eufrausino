@@ -1,12 +1,14 @@
 ### Olá, sou Eufrausino! 👋
 
-- 🔭 Atualmente, faço pesquisas sobre community smells no NuPESSC (UFV, campus Florestal)
-- 🌱 Estou aprendendo sobre aprendizado de máquina, desenvolvimento mobile e web, mineração de dados.
-- 👯 Gostaria de colaborar em projetos sobre mineração de dados.
-- 📫 Contato: gustavo.medeiros@ufv.br
+- Atualmente, faço pesquisas sobre community smells no NuPESSC (UFV, campus Florestal)
+- Estou aprendendo sobre aprendizado de máquina, desenvolvimento mobile e web, mineração de dados.
+- Gostaria de colaborar em projetos sobre mineração de dados.
+- Contato: gustavo.medeiros@ufv.br
 
-<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Eufrausino&show_icons=true&theme=highcontrast"/>
-<img alt="top langs" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrausino&layout=donut&theme=highcontrast"/>
+<div>
+  <img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Eufrausino&show_icons=true&theme=highcontrast"/>
+  <img alt="top langs" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrausino&layout=donut&theme=highcontrast"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="E-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -19,4 +21,5 @@
 
 <div>
   <a href=mailto:gustavo.medeiros@ufv.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-eufrausino-de-medeiros-847a37289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHZBcQGQGR8%2BEQlRlECu6hA%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
