@@ -5,5 +5,5 @@
 - 👯 Gostaria de colaborar em projetos sobre mineração de dados.
 - 📫 Contato: gustavo.medeiros@ufv.br
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eufrausino&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrausino)](https://github.com/Eufrausino/github-readme-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Eufrausino&show_icons=true&theme=highcontrast"/>
+<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrausino&layout=donut"/>
