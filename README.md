@@ -3,11 +3,10 @@
 - Atualmente, faço pesquisas sobre community smells no NuPESSC (UFV, campus Florestal)
 - Estou aprendendo sobre aprendizado de máquina, desenvolvimento mobile e web, mineração de dados.
 - Gostaria de colaborar em projetos sobre mineração de dados.
-- Contato: gustavo.medeiros@ufv.br
 
 <div>
   <img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Eufrausino&show_icons=true&theme=highcontrast"/>
-  <img alt="top langs" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrausino&layout=donut&theme=highcontrast"/>
+  <img alt="top langs" align="left" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrausino&layout=donut&theme=highcontrast"/>
 </div>
 
 <div style="display: inline_block"><br>
