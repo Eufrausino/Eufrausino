@@ -1,9 +1,7 @@
 ### Olá, sou Eufrausino! 👋
 
-- Atualmente, faço pesquisas sobre community smells no NuPESSC (UFV, campus Florestal)
-- Estou aprendendo sobre aprendizado de máquina, desenvolvimento mobile e web, mineração de dados.
-- Gostaria de colaborar em projetos sobre mineração de dados.
-
+- Atualmente, faço pesquisas sobre ética em softwares no NuPESSC (UFV-Campus Florestal)
+- Tenho interesse em diversas áreas como: ciência de dados, cyber security, desenvolvimento web, desenvolvimento de jogos, entre outras.
 
 <img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Eufrausino&show_icons=true&theme=highcontrast"/>
 <img alt="top langs" align="center" width="33.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrausino&layout=donut&theme=highcontrast"/>
