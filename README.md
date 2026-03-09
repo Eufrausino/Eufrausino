@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Eufrausino! 👋<br><br> 🎓 Computer Science Student @ UFV <br><br>I am a final-semester CS student at the Federal University of Viçosa (UFV). <br><br><h2>🔍 What I’m Currently Focused On</h2><ul>
+Hi there, I'm Eufrausino! 👋<br><br> 🎓 Computer Science Student @ UFV <br><br>🔍 What I’m Currently Focused On</h2><ul>
 <li><b>Ethical AI & GenAI:</b> <i>Researching the boundaries of Generative AI, focusing on the social impact of large-scale models.</i></li>
  <li><b>Data Science:</b> <i>Experienced in extracting insights.</i></li>
  <li><b>Cybersecurity & Software Architecture:</b> <i>Exploring the intersection of secure coding practices and scalable software architecture.</i></li>
@@ -9,7 +9,7 @@ Hi there, I'm Eufrausino! 👋<br><br> 🎓 Computer Science Student @ UFV <br><
 <h3> 💻 Languages & Backend</h3>
 <ul>
 <li><b>Languages:</b> C, Java, Python, JavaScript</li>
-<li><b>Frameworks:</b> Spring Boot.</li>
+<li><b>Frameworks:</b> Spring Boot.</li></ul>
 <h3>Infrastructure:</h3>
 <ul><li>Docker, Linux</li></ul>
 <h3> 🎨 Frontend & UI</h3>
