@@ -30,6 +30,7 @@ Hi there, I'm Eufrausino! 👋<br><br> 🎓 Computer Science Student @ UFV <br><
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) 
 ![Neovim](https://img.shields.io/badge/-NeoVim-black?style=flat&logo=neovim)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Materialize](https://img.shields.io/badge/-Materialize--CSS-EB706F?logo=material-design&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Eufrausino&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
