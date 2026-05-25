@@ -34,10 +34,9 @@ Hi there, I'm Eufrausino! 👋<br><br> 🎓 Computer Science Student @ UFV <br><
 ![OBSIDIAN](https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=483699&logo=Obsidian&logoColor=FFFFFF&label=)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Eufrausino&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Eufrausino&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrausino&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![Eufrausino's GitHub stats DARK MODE](https://github-readme-stats.vercel.app/api?username=Eufrausino&show_icons=true&theme=vue#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Eufrausino's GitHub stats LIGHT MODE](https://github-readme-stats.vercel.app/api?username=Eufrausino&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrausino)](https://github.com/anuraghazra/github-readme-stats)
 <!--!## 🏆 GitHub Trophies-->
 <!--!![](https://github-profile-trophy.vercel.app/?username=Eufrausino&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
 
