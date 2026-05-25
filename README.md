@@ -33,17 +33,6 @@ Hi there, I'm Eufrausino! 👋<br><br> 🎓 Computer Science Student @ UFV <br><
 ![Materialize](https://img.shields.io/badge/-Materialize--CSS-EB706F?logo=material-design&logoColor=white)
 ![OBSIDIAN](https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=483699&logo=Obsidian&logoColor=FFFFFF&label=)
 
-# 📊 GitHub Stats:
-<a href="https://github.com/Eufrausino">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Eufrausino&show_icons=true&theme=vue">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Eufrausino&show_icons=true&theme=flat">
-    <img alt="GitHub Stats do Eufrausino" src="https://github-readme-stats.vercel.app/api?username=Eufrausino&show_icons=true&theme=vue">
-  </picture>
-</a>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eufrausino&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <!--!## 🏆 GitHub Trophies-->
 <!--!![](https://github-profile-trophy.vercel.app/?username=Eufrausino&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
 
